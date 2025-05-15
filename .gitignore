@@ -80,6 +80,7 @@ AracneShow/AracneShow/Saved
 AracneShow/AracneShow/Content/Developers
 AracneShow/AracneShow/*.sln
 AracneShow/AracneShow/.vsconfig
+AracneShow/AracneShow/Content/ThirdParty
 AracneShow/Content/ThirdParty
-AracneShow/Content/MageGirl
-AracneShow/Content/LevelPrototyping
+AracneShow/AracneShow/Content/MageGirl
+AracneShow/AracneShow/Content/LevelPrototyping
